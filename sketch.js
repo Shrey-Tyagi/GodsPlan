@@ -4,7 +4,7 @@ var color = 0
 let song;
 
 function preload() {
-  song = loadSound('asse/Best.mp3');
+  song = loadSound('asse/Best.mpeg');
   song.loop();
 }
 
