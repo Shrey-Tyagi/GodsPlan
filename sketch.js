@@ -9,7 +9,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(displayWidth, displayHeight);
     noStroke();
 
 }
